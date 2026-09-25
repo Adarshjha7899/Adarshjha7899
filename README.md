@@ -102,14 +102,20 @@ Explore my GitHub repositories for more full-stack projects, experiments and lea
 </tr>
 </table>
 
-📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshjha7899&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Adarsh's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshjha7899&layout=compact&hide_border=true&theme=tokyonight" alt="Adarsh's top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Adarshjha7899&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Adarsh's GitHub statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshjha7899&layout=compact&hide_border=true"
+    alt="Adarsh's top languages"
+    height="180"
+  />
 </p>
-
-The analytics cards update automatically from my GitHub activity.
 
 🔥 Contribution Streak
 
@@ -117,10 +123,13 @@ The analytics cards update automatically from my GitHub activity.
   <img src="https://streak-stats.demolab.com/?user=Adarshjha7899&theme=tokyonight&hide_border=true" alt="Adarsh's GitHub contribution streak" />
 </p>
 
-📈 Commit & Activity Graph
+<h2 align="center">📈 Commit & Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshjha7899&theme=tokyo-night&hide_border=true" alt="Adarsh's GitHub activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshjha7899&theme=github-compact&hide_border=true"
+    alt="Adarsh's GitHub activity graph"
+  />
 </p>
 
 🤝 Connect With Me
