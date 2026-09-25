@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshjha7899&label=Profile%20views&color=0e75b6&style=flat" alt="adarshjha7899" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshjha7899" alt="adarshjha7899" /></a> </p>
+<p align="left"> <a href="https://github.com/Adarshjha7899"><img src="https://href="https://github.com/Adarshjha7899/?username=adarshjha7899" alt="adarshjha7899" /></a> </p>
 
 - 🔭 I’m currently working on [BOOKME](https://github.com/Adarshjha7899/BOOKME)
 
