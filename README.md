@@ -1,31 +1,30 @@
 <div align="center">
 
-Hi 👋, I'm Adarsh Kumar
+<h1>Hi 👋, I'm Adarsh Kumar</h1>
 
-A passionate Full Stack Developer from India 🇮🇳
+<h2>A passionate Full Stack Developer from India 🇮🇳</h2>
 
-Building • Learning • Solving • Growing 🚀
+<h3>Building • Learning • Solving • Growing 🚀</h3>
 
-<a href="https://github.com/Adarshjha7899">
-  <img src="https://komarev.com/ghpvc/?username=adarshjha7899&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</a>
+<p>
+  <a href="https://github.com/Adarshjha7899">
+    <img src="https://komarev.com/ghpvc/?username=adarshjha7899&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 </div>
 
-👨‍💻 About Me
+---
 
-💻 Full Stack Developer focused on building practical, real-world web applications
+## 👨‍💻 About Me
 
-🚀 Currently working on BOOKME — a full-stack booking platform
-
-🌱 Currently learning React Native
-
-🧠 Interested in React, Node.js, Express, MongoDB and full-stack development
-
-📚 Always learning by building and improving projects
-
-📫 Reach me at adarshkumarjha33799@gmail.com
-
+- 💻 **Full Stack Developer** focused on building practical, real-world web applications
+- 🚀 Currently working on **[BOOKME](https://github.com/Adarshjha7899/BOOKME)** — a full-stack booking platform
+- 🌱 Currently learning **React Native**
+- 🧠 Interested in **React, Node.js, Express, MongoDB** and full-stack development
+- 📚 Always learning by building and improving projects
+- 📫 Reach me at **adarshkumarjha33799@gmail.com**
+- 
 🛠️ Tech Stack
 
 Languages
