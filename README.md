@@ -24,7 +24,7 @@
 - 🧠 Interested in **React, Node.js, Express, MongoDB** and full-stack development
 - 📚 Always learning by building and improving projects
 - 📫 Reach me at **adarshkumarjha33799@gmail.com**
-- 
+  
 🛠️ Tech Stack
 
 Languages
@@ -101,35 +101,23 @@ Explore my GitHub repositories for more full-stack projects, experiments and lea
 </tr>
 </table>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Adarshjha7899&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Adarsh's GitHub statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshjha7899&layout=compact&hide_border=true"
-    alt="Adarsh's top languages"
-    height="180"
+    src="https://streak-stats.demolab.com/?user=Adarshjha7899&theme=tokyonight&hide_border=true"
+    alt="Adarsh's GitHub contribution streak"
   />
 </p>
 
-🔥 Contribution Streak
+<h2 align="center">📈 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adarshjha7899&theme=tokyonight&hide_border=true" alt="Adarsh's GitHub contribution streak" />
+  <a href="https://github.com/Adarshjha7899">
+    View my GitHub contribution activity →
+  </a>
 </p>
 
-<h2 align="center">📈 Commit & Activity Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshjha7899&theme=github-compact&hide_border=true"
-    alt="Adarsh's GitHub activity graph"
-  />
-</p>
 
 🤝 Connect With Me
 
